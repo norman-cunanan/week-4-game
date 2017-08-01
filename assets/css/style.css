@@ -1,0 +1,58 @@
+
+body {
+	background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Amazing-Blue-3D-Crystal-Wallpaper.jpg");
+}
+.container {
+	font-family: Arial;
+}
+
+.game-name {
+	height: 75px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #6AE5AE;
+	font-weight: bold;
+}
+
+.instructions {
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #76F6F5;
+}
+
+.randomNumber {
+	height: 75px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #6AE5AE;
+}
+
+.scoreBoard {
+	height: 75px;
+	padding: 20px;
+	margin: 20px;
+	background-color: cyan;
+}
+.gem1{
+	margin: 20px;
+}
+
+.gem2{
+	margin: 20px;
+}
+
+.gem3{
+	margin: 20px;
+}
+
+.gem4{
+	margin: 20px;
+}
+
+.score {
+	height: 70px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #279865;
+	color: white;
+}
